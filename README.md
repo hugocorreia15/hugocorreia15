@@ -25,9 +25,8 @@ affiliation: IEETA (Institute of Electronics and Informatics Engineering of Avei
 current_focus:
   - Eye tracking & gaze analysis research
   - BEHOLD: a plugin-based eye tracking framework
-  - Gamification System for @ NEI / AAUAv
   - Student life @ NEI / AAUAv
-interests: [HCI, Data Engineering, VR, Federated Learning, DIY projects, OSM]
+interests: [HCI, VR, Federated Learning, DIY projects, OSM]
 ```
 
 <br/>
@@ -36,11 +35,11 @@ interests: [HCI, Data Engineering, VR, Federated Learning, DIY projects, OSM]
 
 | Project | Description |
 |---|---|
-| 🛰️ **SensingHome / BEHOLD** | A plugin-based framework for eye tracking research and gaze analysis |
-| 🥽 **SpeakEase 2.0** | VR experiences built in Unity with Meta Avatar SDK |
+| 🛰️ **BEHOLD** | A plugin-based framework for eye tracking research and gaze analysis |
+| 🥽 **SensingHome / SpeakEase 2.0** | VR experiences built in Unity with Meta Avatar SDK |
 | 📚 **Academic writing** | Papers on gaze analysis, federated learning, and usability evaluation |
-| 🎓 **NEI & AAUAv** | Student events, hackathons, and outreach at the University of Aveiro |
 | 🎮 **Quests@NEI** | Gamification system for NEI / AAUAv with microservices architecture |
+| 🎓 **NEI & AAUAv** | Student events, hackathons, and outreach at the University of Aveiro |
 
 <br/>
 
@@ -81,12 +80,21 @@ interests: [HCI, Data Engineering, VR, Federated Learning, DIY projects, OSM]
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugocorreia15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocorreia15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=hugocorreia15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&cache_seconds=86400" alt="rank card" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugocorreia15&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugocorreia15&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugocorreia15&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hugocorreia15&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugocorreia15&theme=tokyonight&utcOffset=0" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=hugocorreia15&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" alt="streak stats" />
+<img src="https://streak-stats.demolab.com?user=hugocorreia15&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff&v=2" alt="streak stats" />
 
 <br/><br/>
 
